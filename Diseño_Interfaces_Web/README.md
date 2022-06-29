@@ -1,0 +1,5 @@
+![](https://github.com/Crischi/DAW_Trabajos/blob/main/Dise%C3%B1o_Interfaces_Web/DASHBOARD_USER.png)
+![](https://github.com/Crischi/DAW_Trabajos/blob/main/Dise%C3%B1o_Interfaces_Web/DASHBOARD_PARTIDAS.png)
+![](https://github.com/Crischi/DAW_Trabajos/blob/main/Dise%C3%B1o_Interfaces_Web/DASHBOARD_ESTADISTICAS.png)
+![](https://github.com/Crischi/DAW_Trabajos/blob/main/Dise%C3%B1o_Interfaces_Web/DASHBOARD_NOTIFICACIONES.png)
+![](https://github.com/Crischi/DAW_Trabajos/blob/main/Dise%C3%B1o_Interfaces_Web/TABLEBOARD.png)
